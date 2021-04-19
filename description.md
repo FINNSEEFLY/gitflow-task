@@ -101,3 +101,9 @@ Wi-Fi | + 802.11 ax
 Connection socket | USB Type-C
 HDMI out | -
 NFC | +
+### Battery and run time
+Property | Value
+-------- | -----
+Battery type | Li-ion
+Battery capacity | 5,000 mAh
+Non-removable battery | +
