@@ -49,3 +49,13 @@ Length | 165.1 mm
 Width | 75.6 mm
 Thickness | 8.9 mm
 Weight | 227 g
+### Screen
+Property | Value
+-------- | -----
+Screen technology | AMOLED (Dynamic AMOLED 2X)
+Number of screen colors | 16 million
+Pixel density | 515 ppi
+Aspect ratio | 20:9
+Screen refresh rate | 120 Hz
+Touch screen | +
+Scratch protection | + Gorilla Glass Victus
