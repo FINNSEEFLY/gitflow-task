@@ -92,3 +92,12 @@ Registering the force of pressing | -
 Wireless charger  | + (Fast Wireless Charging 2.0)
 Reverse wireless charging | + (Wireless PowerShare)
 Fast charging | + (25 W)
+### Interfaces
+Property | Value
+-------- | -----
+Bluetooth | + 5.2
+Audio output | + USB Type-C
+Wi-Fi | + 802.11 ax
+Connection socket | USB Type-C
+HDMI out | -
+NFC | +
