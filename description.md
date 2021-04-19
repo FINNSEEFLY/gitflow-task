@@ -59,3 +59,14 @@ Aspect ratio | 20:9
 Screen refresh rate | 120 Hz
 Touch screen | +
 Scratch protection | + Gorilla Glass Victus
+### Main camera
+Property | Value
+-------- | -----
+Camera specifications | 108MP, f / 1.8, 83 °, 0.8μm, AF, wide angle, OIS 12MP, f / 2.2, 120 °, 1.4μm, AF, ultra wide angle, 10MP, f / 2.4, 35 °, 1.22μm, AF, telephoto lens, optical zoom 3x, optical stabilization, 10MP, f / 4.9, 10 °, 1.22μm, AF, telephoto lens, optical zoom 10x, optical stabilization
+Additional camera modules | Telephoto, Wide Angle, Ultra Wide Angle
+Built-in flash | +
+Auto focus | +
+Optical stabilization | +
+Optical zoom | 10 X
+Aperture of the main camera | f/1.8
+Maximum frames per second | 960 fps  (Super Slow-mo)
