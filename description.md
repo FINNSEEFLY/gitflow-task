@@ -31,3 +31,14 @@ CPU microarchitecture | ARM Cortex-X1 2900 MHz + Cortex-A78 2800 MHz + Cortex-A5
 Processor size | 64 bits
 Technical process | 5 nm
 Graphics Accelerator | Mali-G78 MP14
+### Design
+Property | Value
+-------- | -----
+Body design | Monoblock
+Body material | Metal
+Back cover material | Glass
+Body color | Black Phantom
+Front panel color | Black Phantom
+Dust and moisture protection | IP68
+Location of the front camera | In the screen
+Fingerprint reader location | Built into the display
