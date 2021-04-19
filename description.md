@@ -42,3 +42,10 @@ Front panel color | Black Phantom
 Dust and moisture protection | IP68
 Location of the front camera | In the screen
 Fingerprint reader location | Built into the display
+### Dimensions and weight
+Property | Value
+-------- | -----
+Length | 165.1 mm
+Width | 75.6 mm
+Thickness | 8.9 mm
+Weight | 227 g
