@@ -1,1 +1,1 @@
-
+# Samsung Galaxy S21 Ultra 5G 16GB/512GB (Phantom Black)
