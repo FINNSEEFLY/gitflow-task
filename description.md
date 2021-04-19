@@ -70,13 +70,25 @@ Optical stabilization | +
 Optical zoom | 10 X
 Aperture of the main camera | f/1.8
 Maximum frames per second | 960 fps  (Super Slow-mo)
-### Front-camera
+### Front-facing camera
 Property | Value
 -------- | -----
-Front-camera | + 40 megapixels  (80 °, 0.7 μm)
+Front-facing camera | + 40 megapixels  (80 °, 0.7 μm)
 Dual camera | -
 Auto focus | +  (Phase Detection)
 Optical stabilization | -
 Built-in flash | -
 Diaphragm | f/2.2
 Maximum video resolution | 3840x2160 (4K UHD)
+### Functions
+Property | Value
+-------- | -----
+Led indicator | -
+Stereo speakers  | + (AKG)
+Fingerprint scanner | + (Ultrasonic)
+Face or iris map scanner | -
+Face unlock | +
+Registering the force of pressing | -
+Wireless charger  | + (Fast Wireless Charging 2.0)
+Reverse wireless charging | + (Wireless PowerShare)
+Fast charging | + (25 W)
