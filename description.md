@@ -11,3 +11,9 @@
 1. **Blue** Phantom
 1. **Titanium** Phantom
 1. **Black** Phantom
+
+### Front side of the smartphone
+
+![Galaxy S21 Ultra Front side](https://content2.onliner.by/catalog/device/main/5fbc4005b39c251a4e372c5e47d4c6f2.jpeg)
+
+The **Samsung Galaxy S21 Ultra** has a **6.8**-inch AMOLED screen with a **120** Hz refresh rate and **WQHD+** resolution, increased by 50 percent (compared to the S20 series) contrast with a record brightness of **1500** nits. The matrix will be protected by **Gorilla Glass Victus**.
